@@ -53,7 +53,7 @@ class Play extends Phaser.Scene {
         
 
         //variables
-        this.SHOT_VELOCITY_X = 200
+        this.SHOT_VELOCITY_X = 500
         this.SHOT_VELOCITY_Y_MIN = 700
         this.SHOT_VELOCITY_Y_MAX = 1100
 
